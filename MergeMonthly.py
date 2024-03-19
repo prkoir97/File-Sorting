@@ -1,3 +1,5 @@
+# Merges daily report CSV files into monthly CSV files, and moves them to a separate directory, then deletes Daily_Reports_CSV directory
+
 import os
 import shutil
 import csv
