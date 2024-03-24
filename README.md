@@ -33,6 +33,3 @@ Ensure you have the following dependencies installed:
 ## Note
 
 - This code is provided for educational and practice purposes only. It may not be suitable for production environments without further modifications and testing.
-- Ensure that the file paths specified in the scripts are correct and correspond to your system's directory structure.
-- Customize the scripts as per your requirements, such as changing the source and destination directories.
-- These scripts are designed to work with Python 3.x. Make sure you have a compatible version installed.
